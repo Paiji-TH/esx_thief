@@ -9,6 +9,11 @@ You can steal someone by pointing at them with your gun. The target has to hands
 
 Only items, cash and black money can be stolen.
 
+Improvements of this version
+  It does not allow you to steal when there are several people nearby
+  You go away the menu closes
+  Animation when giving the item
+
 INSTALLATION
 CD in your resources/[esx] folder
 Clone the repository
