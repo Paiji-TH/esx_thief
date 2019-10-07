@@ -1,22 +1,19 @@
 # esx_thief
-my updated version of esx_thief
+รุ่นปรับปรุงของ rodrii-rms
 
-Based https://github.com/ESX-PUBLIC/esx_thief
+จาก https://github.com/ESX-PUBLIC/esx_thief
+ดัดแปล จาก esx_thief เดิม
 
-Rework from the original esx_thief.
+คุณสามารถขโมยใครบางคนโดยชี้ไปที่พวกเขาด้วยปืนของคุณ มีเป้าหมายที่จะมือขึ้น!
 
-You can steal someone by pointing at them with your gun. The target has to hands up!
+สามารถขโมย ไอเท็ม / เงินสด / เงินผิดกฎหมาย เท่านั้น
 
-Only items, cash and black money can be stolen.
+การปรับปรุงของรุ่นนี้
+คุณจะไม่สามารถที่จะขโมยได้ในเมื่อมีคนหลายคนที่อยู่บริเวณใกล้เคียง
 
-Improvements of this version
-  It does not allow you to steal when there are several people nearby
-  You go away the menu closes
-  Animation when giving the item
-
-INSTALLATION
-CD in your resources/[esx] folder
-Clone the repository
-Copy the handsup.lua file wherever you want
-Add this in your server.cfg :
+ติดตั้ง
+คัดลอกไปยังทรัพยากรของคุณ / [ESX] โฟลเดอร์
+Clone พื้นที่เก็บข้อมูล
+คัดลอกแฟ้ม handsup.lua ทุกที่ที่คุณต้องการ
+เพิ่มใน server.cfg คุณ:
 start esx_thief
